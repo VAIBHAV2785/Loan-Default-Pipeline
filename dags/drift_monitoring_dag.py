@@ -40,7 +40,7 @@ logger = logging.getLogger(__name__)
 default_args = {
     "owner": "mlops",
     "depends_on_past": False,
-    "retries": 1,
+    "retries": 2,
     "retry_delay": timedelta(minutes=3),
     "execution_timeout": timedelta(hours=1),
 }
