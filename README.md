@@ -130,7 +130,7 @@ model:
 | JS Divergence (pred drift) | 0.05 | 0.10 |
 | AUC-ROC degradation | -0.02 | -0.05 |
 
-## API Endpoints
+## API Endpoints.
 
 | Method | Path | Description |
 |--------|------|-------------|
