@@ -122,7 +122,7 @@ model:
     learning_rate: 0.05
 ```
 
-## Monitoring Thresholds
+## Monitoring Thresholds.
 
 | Metric | Warning | Critical (triggers retrain) |
 |--------|---------|------------------------------|
