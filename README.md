@@ -1,6 +1,6 @@
 # Loan Default Prediction Pipeline
 
-An end-to-end MLOps pipeline for predicting loan defaults with automated retraining, drift detection, and CI/CD.
+An end-to-end MLOps pipeline for predicting loan defaults with automated retraining, drift detection, and CI/CD...
 
 ## Architecture 
 
