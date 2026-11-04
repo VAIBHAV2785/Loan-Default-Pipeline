@@ -2,7 +2,7 @@
 
 An end-to-end MLOps pipeline for predicting loan defaults with automated retraining, drift detection, and CI/CD.
 
-## Architecture
+## Architecture 
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
